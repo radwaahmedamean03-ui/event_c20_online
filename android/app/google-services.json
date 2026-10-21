@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168047357652",
+    "project_id": "eventlyc20online",
+    "storage_bucket": "eventlyc20online.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168047357652:android:92cc4ae6b0c4dbae419541",
+        "android_client_info": {
+          "package_name": "com.example.evently_c20_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXaP_snGDZ-uppwF_NWEGdXJn_szDCtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
